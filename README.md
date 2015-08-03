@@ -51,6 +51,7 @@ There are several command-line options which can be added;
 	* -i, --interval <minutes>  Interval (in minutes) for updates [default/maximum 60]
 	
 So a typical command line might be;
+
 	* node thecounted.js -e user@domain.com -p 3030 -i 60
 
 Output
